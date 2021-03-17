@@ -10,7 +10,7 @@ args=vars(ap.parse_args())
 image=cv2.imread(args["image"])
 cv2.imshow("Original", image)
 
-M=np.float32([[1,0,25],[0,1,50]])
+M=np.float32([[1,0,25],[0,1,50]])   #Es importante que la matriz sea float32
 shifted=cv2.warpAffine(image,M, (image.shape[1], image.shape[0]))
 cv2.imshow("Shifted Down and Right",shifted)
 
