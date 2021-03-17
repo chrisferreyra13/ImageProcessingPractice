@@ -1,4 +1,4 @@
-# OpencvBegin
+# OpenCV Practice Scripts
 
 ## Book: 
 ### Practical Python and OpenCV
