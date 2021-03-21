@@ -1,6 +1,7 @@
-# OpenCV Practice Scripts
+# Image Processing Practice Scripts
 
-## Book: 
-### Practical Python and OpenCV
-### An introductory, Example Driven Guide to Image Processing and Computer Vision
+## Libraries: OpenCV, Scikit-image, Numpy
+
+## Books: 
+* Practical Python and OpenCV: An introductory, Example Driven Guide to Image Processing and Computer Vision
 
